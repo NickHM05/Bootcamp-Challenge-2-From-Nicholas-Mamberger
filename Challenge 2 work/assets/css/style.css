@@ -1,8 +1,8 @@
 /*Done GIVEN I need to sample a potential employee's previous work
 Done WHEN I load their portfolio 
 Pic is done THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-     WHEN I click one of the links in the navigation    (Like the checking the links part in challenge 1)
-     THEN the UI scrolls to the corresponding section     (Like the checking the links part in challenge 1)
+Done     WHEN I click one of the links in the navigation    (Like the checking the links part in challenge 1)
+kinda     THEN the UI scrolls to the corresponding section     (Like the checking the links part in challenge 1)
      WHEN I click on the link to the section about their work   (0 actual scrolling)
      THEN the UI scrolls to a section with titled images of the developer's applications (thats an anchor with target is equal to blank)
      WHEN I am presented with the developer's first application                  (hint:use first assignement for help)
@@ -20,7 +20,7 @@ body {
     background-image:url("https://cvws.icloud-content.com/B/AcRIeZ_u511eR-snKuzyZOFSpXsOAcragDcaxVFWOcs9SDpBs2DyL_rf/pexels-karl-solano-2883049.jpg?o=Ap-W4BhKMvNp6NGG7KDcJHKKcCBcyMznc05cTVKSzXCY&v=1&x=3&a=CAogvA1fL8KCc7LqJHHO0w9Oc2p_5DSbNeMuLH7S-DYlH4gSbxCmrtu0wjAYpou3tsIwIgEAUgRSpXsOWgTyL_rfaicEvwhKCSPMUcf_zNg54LzynoaJLVuYhI6ng7RKGgMqgCHcSLEZK-ByJ7m3q2yjMle2fb8blZc7oIZ_LDASWshEe7rhbjg66EV878uZsfiHhw&e=1667098330&fl=&r=da277f4e-fdfa-4332-8ee7-dc2e0077ec33-1&k=l_4vlXnG6fA73_penipVwg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=68&s=2aZFIvNRlJrSo79DVy69OXnrRh4&cd=i");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     position: relative;
   }  
  
@@ -59,6 +59,11 @@ body {
   nav a:hover {
     color: blue;
   }
+
+  .screenshot {
+    height: 800px;
+    width: 500px;
+  }
   
   main {
     display: flex;
@@ -75,7 +80,20 @@ body {
   article {
     border-bottom: 1px solid #d8a47f;
   }
-  
+  .beginner {
+
+  }
+
+  #projects {
+
+
+
+  }
+
+  .projects{
+
+  }
+
   article p {
     margin: 2% 0;
     font-size: 110%;
@@ -87,6 +105,9 @@ body {
     list-style: circle;
   }
   
+  .article {
+    float:right
+  }
   
   form {
     max-width: 400px;
