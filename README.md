@@ -16,9 +16,9 @@ Making a Resume Portfolio of work samples so that someone can review my samples 
 
 ## Installation
 
-Enter the URL from the website. My website:
+Enter the URL from the website. My website:https://nickhm05.github.io/Resume-Portfolio-WIP-From-Nicholas-Mamberger/
 
-URL of the github repository:
+URL of the github repository:https://github.com/NickHM05/Bootcamp-Challenge-1-From-Nicholas-Mamberger
 
 ## Usage
 ![Screenshot of top of the page](./Needs real screenshot added "Screenshot Top Page")
