@@ -144,5 +144,6 @@ Done        THEN I am presented with a responsive layout that adapts to my viewp
   @media screen and (max-width: 768px) {
     header {
       flex-direction: column;
+      flex-wrap: wrap;
     }
   }
