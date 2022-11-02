@@ -1,30 +1,9 @@
-/*Done      GIVEN I need to sample a potential employee's previous work
-Done        WHEN I load their portfolio 
-Done        THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-Done        WHEN I click one of the links in the navigation    (Like the checking the links part in challenge 1)
-Done        THEN the UI scrolls to the corresponding section     (Like the checking the links part in challenge 1)
-Done        WHEN I click on the link to the section about their work   (0 actual scrolling)
-Done        THEN the UI scrolls to a section with titled images of the developer's applications (thats an anchor with target is equal to blank)
-Done        WHEN I am presented with the developer's first application                  (hint:use first assignement for help)
-Done        THEN that application's image should be larger in size than the others        (need a First image that is 70% bigger than the rest of the 5-6 others that hold placeholders for application)
-Done        WHEN I click on the images of the applications
-Done        THEN I am taken to that deployed application (should say placeholder image or something)
-Done        WHEN I resize the page or view the site on various screens and devices
-Done        THEN I am presented with a responsive layout that adapts to my viewport   (use media querys if the flex block is having issues)
-*/
-
   body {
     display: flex;
     flex-direction: column;
     line-height: 1.3;
     background-color:ivory;
-    /*background-image:url("https://cvws.icloud-content.com/B/AcRIeZ_u511eR-snKuzyZOFSpXsOAcragDcaxVFWOcs9SDpBs2DyL_rf/pexels-karl-solano-2883049.jpg?o=Ap-W4BhKMvNp6NGG7KDcJHKKcCBcyMznc05cTVKSzXCY&v=1&x=3&a=CAogvA1fL8KCc7LqJHHO0w9Oc2p_5DSbNeMuLH7S-DYlH4gSbxCmrtu0wjAYpou3tsIwIgEAUgRSpXsOWgTyL_rfaicEvwhKCSPMUcf_zNg54LzynoaJLVuYhI6ng7RKGgMqgCHcSLEZK-ByJ7m3q2yjMle2fb8blZc7oIZ_LDASWshEe7rhbjg66EV878uZsfiHhw&e=1667098330&fl=&r=da277f4e-fdfa-4332-8ee7-dc2e0077ec33-1&k=l_4vlXnG6fA73_penipVwg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=68&s=2aZFIvNRlJrSo79DVy69OXnrRh4&cd=i");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: relative;
-    NOTE: This was a background image i tried to use but it would create more problems than it was worth.*/
-  }  
+     }  
  
   header {
     display: flex;
