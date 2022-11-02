@@ -86,15 +86,10 @@ Done THEN I am presented with a responsive layout that adapts to my viewport   (
 
   #screenshot {
     flex: 1 0 800px;
-    max-height:900px;
-    max-width: 500px;
+    display: block;
+    max-height:1400px;
+    max-width: 1000px;
   }
-
-  .tenor-gif-embed {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-}
 
   #projects {
     flex: 1 0 800px;
