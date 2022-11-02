@@ -23,7 +23,7 @@ Done        THEN I am presented with a responsive layout that adapts to my viewp
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
-    */
+    NOTE: This was a background image i tried to use but it would create more problems than it was worth.*/
   }  
  
   header {
