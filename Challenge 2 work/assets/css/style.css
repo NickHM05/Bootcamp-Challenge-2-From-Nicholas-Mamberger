@@ -82,7 +82,6 @@ Done THEN I am presented with a responsive layout that adapts to my viewport   (
   .work {
     display:flex;
     justify-content: center;
-   
   }
 
   #screenshot {
