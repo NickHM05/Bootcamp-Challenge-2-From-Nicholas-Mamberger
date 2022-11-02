@@ -5,7 +5,7 @@ Done    WHEN I click one of the links in the navigation    (Like the checking th
 kinda   THEN the UI scrolls to the corresponding section     (Like the checking the links part in challenge 1)
 Done    WHEN I click on the link to the section about their work   (0 actual scrolling)
 Done    THEN the UI scrolls to a section with titled images of the developer's applications (thats an anchor with target is equal to blank)
-        WHEN I am presented with the developer's first application                  (hint:use first assignement for help)
+Done        WHEN I am presented with the developer's first application                  (hint:use first assignement for help)
         THEN that application's image should be larger in size than the others        (need a First image that is 70% bigger than the rest of the 5-6 others that hold placeholders for application)
         WHEN I click on the images of the applications
         THEN I am taken to that deployed application (should say placeholder image or something)
@@ -85,7 +85,7 @@ Done THEN I am presented with a responsive layout that adapts to my viewport   (
   }
 
   #screenshot {
-    flex: 1 0 700px;
+    flex: 1 0 800px;
     max-height:900px;
     max-width: 500px;
   }
