@@ -34,6 +34,9 @@ URL of the github repository:https://github.com/NickHM05/Bootcamp-Challenge-1-Fr
 Resource used: https://medium.com/@fooyay/kanbans-second-rule-435ffa27e447 (This is for the work in progress jpg being used as an image and his credit for using it)
 Horiseon Work from the stuff before in challenge 1.
 
+I don't know what is causing this but i will list credit to this user and their license. I don't honestly know why their info is popping up on the inspect part of my website as an issue but I would fix it if I could. Their link below.
+chrome-extension://ekhagklcjbdpajgpjgmbionohlpdbjgc/zotero.js
+
 ## License
 
 MIT License
