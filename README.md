@@ -31,7 +31,8 @@ URL of the github repository:
 -Miguel Montenegro https://github.com/Darkunitx
 -Salahuddin Imdad https://github.com/Sal8298
 
-Resource used: 
+Resource used: https://medium.com/@fooyay/kanbans-second-rule-435ffa27e447 (This is for the work in progress jpg being used as an image and his credit for using it)
+Horiseon Work from the stuff before in challenge 1.
 
 ## License
 
