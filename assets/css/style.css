@@ -1,4 +1,5 @@
-  body {
+  /*controls flex attributes for body section*/
+    body {
     display: flex;
     flex-direction: column;
     line-height: 1.3;
@@ -32,7 +33,7 @@
     font-weight: bold;
     text-decoration: none;
   }
-  
+  /*changes the links to blue when hovered*/
   nav a:hover {
     color: blue;
   }
