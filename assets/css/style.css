@@ -54,6 +54,7 @@
     flex-wrap: wrap;
     flex-direction: column;
     }
+
   .work {
     display:flex;
     justify-content: center;
@@ -93,7 +94,10 @@
     display: flex;
     align-items: center;
   }
-  
+  #about-me img {
+    width: 200px; height:300px;
+  }
+
   .flex-row select {
     flex: 1 0 0;
     margin-left: 2%;
