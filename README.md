@@ -4,7 +4,7 @@
 
 Making a Resume Portfolio of work samples so that someone can review my samples of work and assess whether I would be a good candidate for an open position.
 
--This website was made from scratch amd the code was modified so that it can be viewed from most devices via a cell phone, tablet, or a pc, etc. the websiote has alt text for use from anyone with a unique disability and such. 
+- This website was made from scratch amd the code was modified so that it can be viewed from most devices via a cell phone, tablet, or a pc, etc. the websiote has alt text for use from anyone with a unique disability and such. 
 
 ## Table of Contents
 
@@ -21,15 +21,17 @@ Enter the URL from the website. My website:https://nickhm05.github.io/Resume-Por
 URL of the github repository:https://github.com/NickHM05/Bootcamp-Challenge-1-From-Nicholas-Mamberger
 
 ## Usage
-![Screenshot of top of the page](./Needs real screenshot added "Screenshot Top Page")
-![Screenshot of bottom of the page](./Needs real screenshot added "Screenshot Bottom Page")
+![Screenshot of top of the page](./assets/images/Screenshot%20(50).png "Screenshot Top Page")
+![Screenshot of top middle of the page](./assets/images/Screenshot%20(51).png "Screenshot Middle Page")
+![Screenshot of bottom middle of the page](./assets/images/Screenshot%20(52).png "Screenshot Middle Bottom Page")
+![Screenshot of bottom of the page](./assets/images/Screenshot%20(53).png "Screenshot Bottom Page")
 
 ## Credits
 
 -Collaborators:
--Nicholas Mamberger (author) https://github.com/NickHM05
--Miguel Montenegro https://github.com/Darkunitx
--Salahuddin Imdad https://github.com/Sal8298
+- Nicholas Mamberger (author) https://github.com/NickHM05
+- Miguel Montenegro https://github.com/Darkunitx
+- Salahuddin Imdad https://github.com/Sal8298
 
 Resource used: https://medium.com/@fooyay/kanbans-second-rule-435ffa27e447 (This is for the work in progress jpg being used as an image and his credit for using it)
 Horiseon Work from the stuff before in challenge 1.
