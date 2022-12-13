@@ -8,7 +8,7 @@ Making a Resume Portfolio of work samples so that someone can review my samples 
 
 ## Table of Contents
 
-- [Descritption](#description)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
